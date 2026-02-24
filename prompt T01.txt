@@ -1,0 +1,8 @@
+12S24001 - Fredrick Laurensius Aritonang
+
+ChatGPT
+1. Memasukkan soal
+2. Memasukkan template Driver1.java
+3. Menyalin kodingan nya
+4. Menggabungkan template dengan kodingan yang diberikan
+5. Menanyakan cara mengcompilekan
